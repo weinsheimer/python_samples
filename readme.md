@@ -3,3 +3,5 @@
 添加了时间函数，记录爬网时间，[链接](https://github.com/weinsheimer/python_samples/blob/master/51job.com.sample.py)
 ## 2. 解决部分sql server到mysql数据库的转换问题
 半自动 [链接](https://github.com/weinsheimer/python_sqlserver2mysql)
+## 2. 读取PDF文字，写入TXT例子 
+PDF-> TXT [链接](https://github.com/weinsheimer/python_samples/blob/master/pdf_read.py)
